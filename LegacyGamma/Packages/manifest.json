@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jp.keijiro.klak.motion": "1.1.0",
+    "jp.keijiro.klak.spout": "file:../../../KlakSpout/Packages/jp.keijiro.klak.spout",
+    "jp.keijiro.metamesh": "1.2.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
+    }
+  ]
+}
