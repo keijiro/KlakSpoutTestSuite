@@ -1,0 +1,9 @@
+/Library
+/Logs
+/Recordings
+/Temp
+/UIElementsSchema
+/UserSettings
+
+/.utmp
+/mono_crash.*.json
