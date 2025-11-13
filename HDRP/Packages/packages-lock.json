@@ -161,6 +161,14 @@
         "com.unity.modules.screencapture": "1.0.0"
       }
     },
+    "jp.keijiro.klak.syphon": {
+      "version": "file:../../../KlakSyphon/Packages/jp.keijiro.klak.syphon",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.unity.modules.screencapture": "1.0.0"
+      }
+    },
     "jp.keijiro.metamesh": {
       "version": "1.2.0",
       "depth": 0,
