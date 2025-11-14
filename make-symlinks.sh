@@ -1,7 +1,7 @@
 #!/bin/sh
 
 src_base="."
-dst_base="$HOME/Windows/Documents/KlakSpoutTestSuite"
+dst_base="$HOME/Windows/Documents/VideoInteropTestSuite"
 
 [ -d "$dst_base" ] || mkdir "$dst_base"
 
